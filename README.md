@@ -1,6 +1,4 @@
-# tss
-
-## Time Stamping made Simple (tss)
+# Time Stamping made Simple (tss)
 
 It is a simple utility to prepend timestamp through pipelining. Linux users may want to look at 'ts' instead. Although this implementation also works on Linux, this utility was created due to the lack of 'ts' on OS X, macOS, or Unix in general.
 
