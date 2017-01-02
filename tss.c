@@ -70,7 +70,7 @@ int main(void) {
 
         printf("[%s.%06ld] ", timestr, now.tv_usec);
 
-        puts(buffer);
+        fputs(buffer, stdout);
     }
 
     return 0;
